@@ -1,0 +1,15 @@
+{
+  "repo-infos":{
+    "engine":"git",
+    "url":"https://github.com/dalu93/repo.git",
+    "credentials":{
+      "username":"dalu93",
+      "password":"my-password"
+    },
+    "tag-prefix": "v",
+    "source":{
+      "branch":"master",
+      "url":"only-if-svn"
+    }
+  }
+}
